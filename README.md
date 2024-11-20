@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daniel Osah
 - 👀 I’m interested in art, computer hardware, fitness, mental health, and cars.
-- 🌱 I’m currently C, Rust, JavaScript, HTML, and Python
+- 🌱 I’m currently learning C, Rust, JavaScript, HTML, and Python
 - 💞️ I’m looking to collaborate on pretty much anything related to my interests above!
 
 <!---
